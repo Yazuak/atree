@@ -5,7 +5,7 @@ I found animated Christmas tree on reddit:
 
 ![reddit tree](http://i.imgur.com/Fy4S1jR.gif)
 
-Was curious to make it in js. This is work in progress. Current results are here: [Merry Christmas!](http://anvaka.github.io/atree/)
+Was curious to make it in js. This is work in progress. Current results are here: [Merry Christmas!](http://yazuak.github.io/atree/)
 
 How it's built?
 ---------------
